@@ -3,11 +3,11 @@
 A web application that allows users to create and edit professional resumes.
 
 **Installation**
-Clone the repository: git clone https://github.com/username/resume-builder.git
+Clone the repository: git clone https://github.com/arnavunique/Hackoverflow_innovation.git
 Install the dependencies: npm install
 Create a .env file and set the following environment variables:
-DATABASE_URL - the URL of your database
-SECRET_KEY - a secret key for your application
+DATABASE_URL
+SECRET_KEY
 Start the server: npm start
 Open your browser and navigate to http://localhost:3000
 
