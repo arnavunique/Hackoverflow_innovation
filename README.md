@@ -30,12 +30,10 @@ A resume builder web application is a tool that allows users to create and edit 
 1. Node.js <br />
 2. Express <br />
 3. MongoDB <br />
-4. Passport <br />
+4. Javascript <br />
 5. Handlebars <br />
 6. pdfkit <br />
-
+7. CSS <br />
+8. SCSS <br />
 **Support**
-For support, please open an issue on the GitHub repository or contact me directly. <br />
-
-**License**
-This software is licensed under the MIT license. <br />
+For support, please open an issue on the GitHub repository. <br />
