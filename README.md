@@ -1,6 +1,8 @@
 # Hackoverflow_innovation
 **Resume Builder**
-A web application that allows users to create and edit professional resumes.
+A web application that allows users to create and edit professional resumes. <br />
+<br />
+A resume builder web application is a tool that allows users to create and edit professional resumes. The main use of this type of application is to help users create a well-formatted and visually appealing resume that highlights their skills and qualifications, making it easier for them to apply for jobs and increase their chances of getting hired.
 
 **Installation**
 1. Clone the repository: git clone https://github.com/arnavunique/Hackoverflow_innovation.git <br />
