@@ -25,12 +25,12 @@ A web application that allows users to create and edit professional resumes.
 5. Responsive design <br />
 
 **Dependencies** <br />
-**.**Node.js <br />
-**.**Express <br />
-**.**MongoDB <br />
-**.**Passport <br />
-**.**Handlebars <br />
-**.**pdfkit <br />
+1. Node.js <br />
+2. Express <br />
+3. MongoDB <br />
+4. Passport <br />
+5. Handlebars <br />
+6. pdfkit <br />
 
 **Support**
 For support, please open an issue on the GitHub repository or contact me directly. <br />
